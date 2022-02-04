@@ -5,8 +5,9 @@ import CharList from "../charList/CharList";
 import CharInfo from "../charInfo/CharInfo";
 import ErrorBoundary from "../errorBoundary/ErrorBoundary";
 
+
 import decoration from '../../resources/img/vision.png';
-import ErrorMessage from "../errorMessage/ErrorMessage";
+// import ErrorMessage from "../errorMessage/ErrorMessage";
 
 class App extends Component {
     state = {
